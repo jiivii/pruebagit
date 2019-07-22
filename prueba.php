@@ -2,5 +2,5 @@
 $a=4;
 $b=6;
 $c=$a+$b;
-echo $c;
-//echo phpinfo();
+//echo $c;
+echo phpinfo();
